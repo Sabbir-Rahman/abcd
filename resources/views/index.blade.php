@@ -50,7 +50,10 @@
         <div class="row">
             <div class="col-lg-3">
                 <div class="header__logo">
+                    <!--
                     <a href="#"><img src="/img/iutds-logo.jpg" alt=""></a>
+                    -->
+                    <h4><font color="white">IUTDS</font></h4>
                 </div>
             </div>
             <div class="col-lg-6">
