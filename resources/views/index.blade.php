@@ -133,11 +133,20 @@
                         <h2>We are IUTDS</h2>
                     </div>
                     <div class="about__para__text">
-                        <p>Metasurfaces are generally designed by placing scatterers in periodic or pseudo-periodic
-                            grids. We propose and discuss design rules for functional metasurfaces with randomly
-                            placed.</p>
-                        <p>Anisotropic elements that randomly sample. Quisque sit amet nisl ante. Fusce lacinia non
-                            tellus id gravida. Cras neque dolor, volutpat et hendrerit et.</p>
+                        <p>IUTDS is one of the prominent debating clubs of University level debating in Bangladesh. It’s a society that values free-thinking and encourages
+                            its members to think analytically through debating. </p>
+                        <p>Based in Islamic University of Technology, Gazipur; IUT Debating Society started its journey in 1997. Since its inception,
+                            IUTDS has been actively participating in many national and international tournaments. The debaters showcased their brilliant performance
+                            and came out triumphant in many places. The most remarkable of them being breaking to the quarter-finals of Malaysia WUDC 2015 and Dutch
+                            WUDC 2017. A team from IUT also broke to the quarters and bowed out of the semis in IUB Ascension 2019. Its most recent significant wins include
+                            breaking 4th in the EFL category of the Asian British Parliamentary Debating Championship 2020.
+                        </p>
+                        <p>Our flagship tournament, IUT Professionals, hosts prominent debate teams from all over the country. Besides, the Intra IUT Novice Debate Tournament aims at
+                            encouraging the freshmen of the university to explore the diversified world of debating. Every year, we extract some of the best debaters of Bangladesh in this way.
+                        </p>
+                        <p>IUTDS is a safe space to exchange new perspectives keeping the mutual respect among the debaters unimpaired. It’s a place where one can apply the power of
+                            critical thinking to envision something bigger and colossal in aptitude from all extents imaginable.
+                        </p>
                     </div>
                     <a href="#" class="primary-btn normal-btn">Learn More</a>
                 </div>
