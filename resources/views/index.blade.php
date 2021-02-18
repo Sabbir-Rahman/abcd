@@ -152,9 +152,12 @@
                 </div>
             </div>
             <div class="col-lg-6">
+                <br><br><br>
                 <div class="about__pic">
+                    <br><br>
                     <div class="about__pic__inner">
-                        <img src="/img/mikeDemo.jpg" alt="">
+                        <br><br><br><br>
+                        <img src="/img/iutds-logo.jpg" alt="">
                     </div>
                 </div>
             </div>
