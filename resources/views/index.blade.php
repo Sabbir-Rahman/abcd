@@ -60,18 +60,20 @@
                 <nav class="header__menu mobile-menu">
                     <ul>
                         <li class="active"><a href="./index.html">Home</a></li>
-                        <li><a href="./projects.html">Events</a></li>
-                        <li><a href="./about.html">About</a></li>
-                        <li><a href="#">Pages</a>
+                        <li><a href="./about.html">Achievements</a></li>
+                        <li><a href="#">Iutds Corner</a>
                             <ul class="dropdown">
-                                <li><a href="./Project-details.html">Project Details</a></li>
-                                <li><a href="./about.html">About</a></li>
-                                <li><a href="./services.html">Services</a></li>
-                                <li><a href="./blog-details.html">Blog Details</a></li>
+                                <li><a href="./Project-details.html">About Us</a></li>
+                                <li><a href="./Project-details.html">Present IUTDS</a></li>
+                                <li><a href="./about.html">Present Commitee</a></li>
+                                <li><a href="./services.html">Present memeber</a></li>
+                                <li><a href="./services.html">Our Alumni</a></li>
+                                <li><a href="./services.html">Recent Events</a></li>
+                                <li><a href="./blog-details.html">Debate resources</a></li>
                             </ul>
                         </li>
-                        <li><a href="./blog.html">Blog</a></li>
-                        <li><a href="./contact.html">Contact</a></li>
+                        <li><a href="./blog.html">Announcements</a></li>
+
                     </ul>
                 </nav>
             </div>
@@ -133,28 +135,24 @@
                         <h2>We are IUTDS</h2>
                     </div>
                     <div class="about__para__text">
-                        <p>IUTDS is one of the prominent debating clubs of University level debating in Bangladesh. It’s a society that values free-thinking and encourages
-                            its members to think analytically through debating. </p>
-                        <p>Based in Islamic University of Technology, Gazipur; IUT Debating Society started its journey in 1997. Since its inception,
-                            IUTDS has been actively participating in many national and international tournaments. The debaters showcased their brilliant performance
-                            and came out triumphant in many places. The most remarkable of them being breaking to the quarter-finals of Malaysia WUDC 2015 and Dutch
-                            WUDC 2017. A team from IUT also broke to the quarters and bowed out of the semis in IUB Ascension 2019. Its most recent significant wins include
-                            breaking 4th in the EFL category of the Asian British Parliamentary Debating Championship 2020.
+                        <p>From Islamic University of Technology, IUTDS is one of the prominent debating clubs of university level debating in Bangladesh.
+                            It’s a society that values free-thinking and encourages its members to think analytically.
                         </p>
-                        <p>Our flagship tournament, IUT Professionals, hosts prominent debate teams from all over the country. Besides, the Intra IUT Novice Debate Tournament aims at
-                            encouraging the freshmen of the university to explore the diversified world of debating. Every year, we extract some of the best debaters of Bangladesh in this way.
+                        <p>Since its inception in 1997, IUT Debating Society has been actively participating in many national and international tournaments.
+                            Breaking to the quarter-finals of Malaysia WUDC 2015 and Dutch WUDC 2017 are its recent most remarkable achievements.
+                            Recently, a team from IUTDS broke 4th in the EFL category of the Asian British Parliamentary Debating Championship 2020.
                         </p>
-                        <p>IUTDS is a safe space to exchange new perspectives keeping the mutual respect among the debaters unimpaired. It’s a place where one can apply the power of
-                            critical thinking to envision something bigger and colossal in aptitude from all extents imaginable.
+                        <p>Our flagship tournament, IUT Professionals, hosts prominent debate teams from all over the country.
                         </p>
+
                     </div>
                     <a href="#" class="primary-btn normal-btn">Learn More</a>
                 </div>
             </div>
             <div class="col-lg-6">
-                <br><br><br>
+
                 <div class="about__pic">
-                    <br><br>
+                    <br>
                     <div class="about__pic__inner">
                         <br><br><br><br>
                         <img src="/img/iutds-logo.jpg" alt="">
@@ -481,44 +479,45 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title">
-                    <span>Our specialization</span>
-                    <h2>What we do</h2>
+                    <span>Our specialize</span>
+                    <h2>Events</h2>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="services__item">
-                    <img src="/staging-assets/img/services/services-1.png" alt="">
-                    <h4>Interior Design</h4>
-                    <p>As you might expect of a company that began as a high-end interiors contractor, we pay strict
+                    <img src="/img/eventsImage/cafe_debate_little_logo.png" alt="" width="60%">
+                    <h4>Cafe Debate</h4>
+                    <p<br>As you might expect of a company that began as a high-end interiors contractor, we pay strict
                         attention.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="services__item">
-                    <img src="/staging-assets/img/services/services-2.png" alt="">
-                    <h4>Office Design</h4>
+                    <img src="/img/eventsImage/greatness_express_little_logo.png" alt="" width="60%">
+                    <h4>Iutds Greatness Express</h4>
                     <p>Our commitment to exceptional quality has never wavered. To day ranks as one of the most
                         highly-regarded construction.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="services__item">
-                    <img src="/staging-assets/img/services/services-3.png" alt="">
-                    <h4>Home Design</h4>
+                    <img src="/img/eventsImage/iutdsiv_little_logo.png" alt="" width="60%">
+                    <h4>Iutds IV</h4>
                     <p>Interdisciplinary architectural studio with cultural, residential and commercial projects
                         built worldwide.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="services__item">
-                    <img src="/staging-assets/img/services/services-4.png" alt="">
-                    <h4>Design drawing</h4>
+                    <img src="/img/eventsImage/professionals_little_logo.png" alt="" width="60%">
+                    <h4>Iutds Professional</h4>
                     <p>Creating architectural and creative solutions to help people realize their vision and make
                         them a reality.</p>
                 </div>
             </div>
+
         </div>
         <div class="counter__content">
             <div class="row">
