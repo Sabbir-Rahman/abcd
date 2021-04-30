@@ -53,7 +53,7 @@
                 <!-- end div#countdown -->
 
                 <footer>
-                    <p><b>Excited much?</b> While you wait, check us out at <a id="fb" href="https://www.facebook.com/iutdebatingsociety"><strong>Facebook</strong></a></p>
+                    <p><b>Excited much?</b> While you wait, check us out at <a id="fb" href="https://www.facebook.com/iutdebatingsociety"><strong>Facebook</strong></a></p>!
                     <br>
 
                 </footer>
