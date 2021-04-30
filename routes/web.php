@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home',[index::class,'index'])->name('home-page');
+Route::get('/hello_iutds_preparing',[index::class,'index'])->name('home-page');

@@ -53,7 +53,7 @@
                 <!-- end div#countdown -->
 
                 <footer>
-                    <p>Hey, how are you doing? This is our iutds website. Are you excited then follow us on <a id="fb" href="https://www.facebook.com/iutdebatingsociety"><strong>IUTDS</strong></a></p>
+                    <p><b>Excited much?</b> While you wait, check us out at <a id="fb" href="https://www.facebook.com/iutdebatingsociety"><strong>Facebook</strong></a></p>
                     <br>
 
                 </footer>
@@ -64,16 +64,17 @@
         <script type="text/javascript">
             function countdown(){
                 var now = new Date();
-                var eventDate = new Date(2021, 4, 17)
+                var eventDate = new Date(2021, 5, 12)
                 var currentTime = now.getTime();
+                console.log(currentTime)
                 var eventTime = eventDate.getTime();
 
                 var remTime = eventTime - currentTime;
 
                 var seconds = Math.floor(remTime/1000);
                 var minutes = Math.floor(seconds/60);
-                var hours = Math.floor(minutes/60);
-                var days = Math.floor(hours/24);
+                var hours = Math.floor(minutes/60)-8;
+                var days = Math.floor(hours/24)-30;
 
                 hours %= 24;
                 minutes %= 60;
