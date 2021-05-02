@@ -60,19 +60,16 @@
                 <nav class="header__menu mobile-menu">
                     <ul>
                         <li class="active"><a href="./index.html">Home</a></li>
-                        <li><a href="./about.html">Achievements</a></li>
+                        <li><a href="./about.html">Hall of fame</a></li>
                         <li><a href="#">Iutds Corner</a>
                             <ul class="dropdown">
                                 <li><a href="./Project-details.html">About Us</a></li>
-                                <li><a href="./Project-details.html">Present IUTDS</a></li>
-                                <li><a href="./about.html">Present Commitee</a></li>
-                                <li><a href="./services.html">Present memeber</a></li>
-                                <li><a href="./services.html">Our Alumni</a></li>
-                                <li><a href="./services.html">Recent Events</a></li>
+                                <li><a href="./blog-details.html">Highlights</a></li>
                                 <li><a href="./blog-details.html">Debate resources</a></li>
                             </ul>
                         </li>
-                        <li><a href="./blog.html">Announcements</a></li>
+                        <li><a href="./blog.html">Our People</a></li>
+                        <li><a href="./blog.html">Blog</a></li>
 
                     </ul>
                 </nav>
@@ -94,7 +91,9 @@
     <div class="hero__slider owl-carousel">
         <div class="hero__items set-bg" data-setbg="/img/iutds-back.jpg">
             <div class="hero__text">
-                <h2>I think Therefore <br>I am</h2>
+                <h2>" I think Therefore <br>I am "</h2>
+                <h5><font color="white"><i>-Rene Descartes</i></font></h5>
+                <br><br><br><br>
                 <a href="#" class="primary-btn">Visit Us</a>
                 <a href="#" class="more_btn">Discover more</a>
                 <div class="hero__social">
@@ -107,7 +106,9 @@
         </div>
         <div class="hero__items set-bg" data-setbg="/img/iutds-back.jpg">
             <div class="hero__text">
-                <h2>I think Therefore <br>I am</h2>
+                <h2>" I think Therefore <br>I am "</h2>
+                <h5><font color="white"><i>-Rene Descartes</i></font></h5>
+                <br><br><br><br>
                 <a href="#" class="primary-btn">Visit Us</a>
                 <a href="#" class="more_btn">Discover more</a>
                 <div class="hero__social">
@@ -568,149 +569,149 @@
 <!-- Services Section End -->
 
 <!-- Testimonial Section Begin -->
-<section class="testimonial spad set-bg" data-setbg="/staging-assets/img/testimonial/testimonial-bg.jpg">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <div class="section-title">
-                    <span>Testimonials</span>
-                    <h2>What your clients say</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="testimonial__carousel">
-                    <div class="testimonial__item">
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-xl-9 col-lg-10">
-                                <p>“1. Fast and accurate at solving mental math problems involving addition,
-                                    subtraction, multiplication, division and percentages but without high-level
-                                    skills that might be required in jobs requiring complex calculation and
-                                    analysis.”</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial__item">
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-xl-9 col-lg-10">
-                                <p>“2. Fast and accurate at solving mental math problems involving addition,
-                                    subtraction, multiplication, division and percentages but without high-level
-                                    skills that might be required in jobs requiring complex calculation and
-                                    analysis.”</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial__item">
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-xl-9 col-lg-10">
-                                <p>“3. Fast and accurate at solving mental math problems involving addition,
-                                    subtraction, multiplication, division and percentages but without high-level
-                                    skills that might be required in jobs requiring complex calculation and
-                                    analysis.”</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial__item">
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-xl-9 col-lg-10">
-                                <p>“4. Fast and accurate at solving mental math problems involving addition,
-                                    subtraction, multiplication, division and percentages but without high-level
-                                    skills that might be required in jobs requiring complex calculation and
-                                    analysis.”</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonial__item">
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-9">
-                                <p>“5. Fast and accurate at solving mental math problems involving addition,
-                                    subtraction, multiplication, division and percentages but without high-level
-                                    skills that might be required in jobs requiring complex calculation and
-                                    analysis.”</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row d-flex justify-content-center">
-            <div class="col-xl-6 col-lg-8 col-md-7 col-sm-10 ">
-                <div class="testimonial__client">
-                    <div class="testimonial__client__item add">
-                        <div class="testimonial__client__pic">
-                            <img src="/staging-assets/img/testimonial/ta-1.png" alt="">
-                        </div>
-                        <div class="testimonial__client__text">
-                            <h5>Renee Calhoun</h5>
-                            <span>CEO Woolley</span>
-                        </div>
-                    </div>
-                    <div class="testimonial__client__item">
-                        <div class="testimonial__client__pic">
-                            <img src="/staging-assets/img/testimonial/ta-2.png" alt="">
-                        </div>
-                        <div class="testimonial__client__text">
-                            <h5>Renee Calhoun</h5>
-                            <span>CEO Woolley</span>
-                        </div>
-                    </div>
-                    <div class="testimonial__client__item">
-                        <div class="testimonial__client__pic">
-                            <img src="/staging-assets/img/testimonial/ta-3.png" alt="">
-                        </div>
-                        <div class="testimonial__client__text">
-                            <h5>Renee Calhoun</h5>
-                            <span>CEO Woolley</span>
-                        </div>
-                    </div>
-                    <div class="testimonial__client__item">
-                        <div class="testimonial__client__pic">
-                            <img src="/staging-assets//testimonial/ta-4.png" alt="">
-                        </div>
-                        <div class="testimonial__client__text">
-                            <h5>Renee Calhoun</h5>
-                            <span>CEO Woolley</span>
-                        </div>
-                    </div>
-                    <div class="testimonial__client__item">
-                        <div class="testimonial__client__pic">
-                            <img src="/staging-assets/img/testimonial/ta-5.png" alt="">
-                        </div>
-                        <div class="testimonial__client__text">
-                            <h5>Renee Calhoun</h5>
-                            <span>CEO Woolley</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="logo__carousel owl-carousel">
-                    <div class="logo__carousel__item">
-                        <a href="#"><img src="/staging-assets//logo/logo-1.png" alt=""></a>
-                    </div>
-                    <div class="logo__carousel__item">
-                        <a href="#"><img src="/staging-assets/img/logo/logo-2.png" alt=""></a>
-                    </div>
-                    <div class="logo__carousel__item">
-                        <a href="#"><img src="/staging-assets/img/logo/logo-3.png" alt=""></a>
-                    </div>
-                    <div class="logo__carousel__item">
-                        <a href="#"><img src="/staging-assets/img/logo/logo-4.png" alt=""></a>
-                    </div>
-                    <div class="logo__carousel__item">
-                        <a href="#"><img src="/staging-assets/img/logo/logo-5.png" alt=""></a>
-                    </div>
-                    <div class="logo__carousel__item">
-                        <a href="#"><img src="/staging-assets/img/logo/logo-3.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+{{--<section class="testimonial spad set-bg" data-setbg="/staging-assets/img/testimonial/testimonial-bg.jpg">--}}
+{{--    <div class="container">--}}
+{{--        <div class="row">--}}
+{{--            <div class="col-lg-12 text-center">--}}
+{{--                <div class="section-title">--}}
+{{--                    <span>Testimonials</span>--}}
+{{--                    <h2>What your clients say</h2>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <div class="row">--}}
+{{--            <div class="col-lg-12">--}}
+{{--                <div class="testimonial__carousel">--}}
+{{--                    <div class="testimonial__item">--}}
+{{--                        <div class="row d-flex justify-content-center">--}}
+{{--                            <div class="col-xl-9 col-lg-10">--}}
+{{--                                <p>“1. Fast and accurate at solving mental math problems involving addition,--}}
+{{--                                    subtraction, multiplication, division and percentages but without high-level--}}
+{{--                                    skills that might be required in jobs requiring complex calculation and--}}
+{{--                                    analysis.”</p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="testimonial__item">--}}
+{{--                        <div class="row d-flex justify-content-center">--}}
+{{--                            <div class="col-xl-9 col-lg-10">--}}
+{{--                                <p>“2. Fast and accurate at solving mental math problems involving addition,--}}
+{{--                                    subtraction, multiplication, division and percentages but without high-level--}}
+{{--                                    skills that might be required in jobs requiring complex calculation and--}}
+{{--                                    analysis.”</p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="testimonial__item">--}}
+{{--                        <div class="row d-flex justify-content-center">--}}
+{{--                            <div class="col-xl-9 col-lg-10">--}}
+{{--                                <p>“3. Fast and accurate at solving mental math problems involving addition,--}}
+{{--                                    subtraction, multiplication, division and percentages but without high-level--}}
+{{--                                    skills that might be required in jobs requiring complex calculation and--}}
+{{--                                    analysis.”</p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="testimonial__item">--}}
+{{--                        <div class="row d-flex justify-content-center">--}}
+{{--                            <div class="col-xl-9 col-lg-10">--}}
+{{--                                <p>“4. Fast and accurate at solving mental math problems involving addition,--}}
+{{--                                    subtraction, multiplication, division and percentages but without high-level--}}
+{{--                                    skills that might be required in jobs requiring complex calculation and--}}
+{{--                                    analysis.”</p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="testimonial__item">--}}
+{{--                        <div class="row d-flex justify-content-center">--}}
+{{--                            <div class="col-lg-9">--}}
+{{--                                <p>“5. Fast and accurate at solving mental math problems involving addition,--}}
+{{--                                    subtraction, multiplication, division and percentages but without high-level--}}
+{{--                                    skills that might be required in jobs requiring complex calculation and--}}
+{{--                                    analysis.”</p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <div class="row d-flex justify-content-center">--}}
+{{--            <div class="col-xl-6 col-lg-8 col-md-7 col-sm-10 ">--}}
+{{--                <div class="testimonial__client">--}}
+{{--                    <div class="testimonial__client__item add">--}}
+{{--                        <div class="testimonial__client__pic">--}}
+{{--                            <img src="/staging-assets/img/testimonial/ta-1.png" alt="">--}}
+{{--                        </div>--}}
+{{--                        <div class="testimonial__client__text">--}}
+{{--                            <h5>Renee Calhoun</h5>--}}
+{{--                            <span>CEO Woolley</span>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="testimonial__client__item">--}}
+{{--                        <div class="testimonial__client__pic">--}}
+{{--                            <img src="/staging-assets/img/testimonial/ta-2.png" alt="">--}}
+{{--                        </div>--}}
+{{--                        <div class="testimonial__client__text">--}}
+{{--                            <h5>Renee Calhoun</h5>--}}
+{{--                            <span>CEO Woolley</span>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="testimonial__client__item">--}}
+{{--                        <div class="testimonial__client__pic">--}}
+{{--                            <img src="/staging-assets/img/testimonial/ta-3.png" alt="">--}}
+{{--                        </div>--}}
+{{--                        <div class="testimonial__client__text">--}}
+{{--                            <h5>Renee Calhoun</h5>--}}
+{{--                            <span>CEO Woolley</span>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="testimonial__client__item">--}}
+{{--                        <div class="testimonial__client__pic">--}}
+{{--                            <img src="/staging-assets//testimonial/ta-4.png" alt="">--}}
+{{--                        </div>--}}
+{{--                        <div class="testimonial__client__text">--}}
+{{--                            <h5>Renee Calhoun</h5>--}}
+{{--                            <span>CEO Woolley</span>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="testimonial__client__item">--}}
+{{--                        <div class="testimonial__client__pic">--}}
+{{--                            <img src="/staging-assets/img/testimonial/ta-5.png" alt="">--}}
+{{--                        </div>--}}
+{{--                        <div class="testimonial__client__text">--}}
+{{--                            <h5>Renee Calhoun</h5>--}}
+{{--                            <span>CEO Woolley</span>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <div class="row">--}}
+{{--            <div class="col-lg-12">--}}
+{{--                <div class="logo__carousel owl-carousel">--}}
+{{--                    <div class="logo__carousel__item">--}}
+{{--                        <a href="#"><img src="/staging-assets//logo/logo-1.png" alt=""></a>--}}
+{{--                    </div>--}}
+{{--                    <div class="logo__carousel__item">--}}
+{{--                        <a href="#"><img src="/staging-assets/img/logo/logo-2.png" alt=""></a>--}}
+{{--                    </div>--}}
+{{--                    <div class="logo__carousel__item">--}}
+{{--                        <a href="#"><img src="/staging-assets/img/logo/logo-3.png" alt=""></a>--}}
+{{--                    </div>--}}
+{{--                    <div class="logo__carousel__item">--}}
+{{--                        <a href="#"><img src="/staging-assets/img/logo/logo-4.png" alt=""></a>--}}
+{{--                    </div>--}}
+{{--                    <div class="logo__carousel__item">--}}
+{{--                        <a href="#"><img src="/staging-assets/img/logo/logo-5.png" alt=""></a>--}}
+{{--                    </div>--}}
+{{--                    <div class="logo__carousel__item">--}}
+{{--                        <a href="#"><img src="/staging-assets/img/logo/logo-3.png" alt=""></a>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</section>--}}
 <!-- Testimonial Section End -->
 
 <!-- Team Section Begin -->
@@ -846,20 +847,20 @@
 <!-- Team Section End -->
 
 <!-- Call To Action Section Begin -->
-<section class="callto spad set-bg" data-setbg="/staging-assets/img/call-bg.jpg">
-    <div class="container">
-        <div class="row d-flex justify-content-center">
-            <div class="col-lg-10 text-center">
-                <div class="callto__text">
-                    <span>Why choose us?</span>
-                    <h2>Our Ability To Deliver Outstanding Results For Our Clients Starts With Our Team Of Smart.
-                    </h2>
-                    <a href="#" class="primary-btn">Contact Us</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+{{--<section class="callto spad set-bg" data-setbg="/staging-assets/img/call-bg.jpg">--}}
+{{--    <div class="container">--}}
+{{--        <div class="row d-flex justify-content-center">--}}
+{{--            <div class="col-lg-10 text-center">--}}
+{{--                <div class="callto__text">--}}
+{{--                    <span>Why choose us?</span>--}}
+{{--                    <h2>Our Ability To Deliver Outstanding Results For Our Clients Starts With Our Team Of Smart.--}}
+{{--                    </h2>--}}
+{{--                    <a href="#" class="primary-btn">Contact Us</a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</section>--}}
 <!-- Call To Action Section End -->
 
 <!-- Latest Section Begin -->
