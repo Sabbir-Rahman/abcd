@@ -73,7 +73,7 @@
 
                 var seconds = Math.floor(remTime/1000);
                 var minutes = Math.floor(seconds/60);
-                var hours = Math.floor(minutes/60)-8;
+                var hours = Math.floor(minutes/60)-2;
                 var days = Math.floor(hours/24)-30;
 
                 hours %= 24;

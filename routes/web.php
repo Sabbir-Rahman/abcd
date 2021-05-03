@@ -19,6 +19,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/hello',[index::class,'index'])->name('home-page');
-Route::get('/hello/blog',[index::class,'index'])->name('blog-page');
-Route::get('/hello/hall_of_fame',[index::class,'index'])->name('hall-of-fame');
+Route::get('/hellolu',[index::class,'index'])->name('home-page');
+Route::get('/hellolu/blog',[blogs::class,'index'])->name('blog-page');
+Route::get('/hellolu/hall_of_fame',[hall_of_fame::class,'index'])->name('hall-of-fame');

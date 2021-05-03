@@ -60,7 +60,7 @@
                 <nav class="header__menu mobile-menu">
                     <ul>
                         <li class="active"><a href="./index.html">Home</a></li>
-                        <li><a href="./about.html">Hall of fame</a></li>
+                        <li><a href="{{route('hall-of-fame')}}">Hall of fame</a></li>
                         <li><a href="#">Iutds Corner</a>
                             <ul class="dropdown">
                                 <li><a href="./Project-details.html">About Us</a></li>
@@ -69,7 +69,7 @@
                             </ul>
                         </li>
                         <li><a href="./blog.html">Our People</a></li>
-                        <li><a href="./blog.html">Blog</a></li>
+                        <li><a href="{{route('blog-page')}}">Blog</a></li>
 
                     </ul>
                 </nav>
