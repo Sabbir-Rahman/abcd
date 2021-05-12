@@ -99,8 +99,8 @@
                 <h2>" I think Therefore <br>I am "</h2>
                 <h5><font color="white"><i>-Rene Descartes</i></font></h5>
                 <br><br><br><br>
-                <a href="#" class="primary-btn">Visit Us</a>
-                <a href="#" class="more_btn">Discover more</a>
+                <a href="{{route('about')}}" class="primary-btn">Visit Us</a>
+{{--                <a href="#" class="more_btn">Discover more</a>--}}
                 <div class="hero__social">
                     <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
                     <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i
