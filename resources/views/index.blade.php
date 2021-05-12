@@ -103,7 +103,8 @@
                 <a href="#" class="more_btn">Discover more</a>
                 <div class="hero__social">
                     <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
-                    <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i
+                            class="fa fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
@@ -116,7 +117,8 @@
                 {{--                <a href="#" class="more_btn">Discover more</a>--}}
                 <div class="hero__social">
                     <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
-                    <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i
+                            class="fa fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
@@ -194,7 +196,7 @@
                     </div>
                     <div class="about__para__text">
 
-                        <p>Since its inception in 1997, IUT Debating Society has been actively participating in many
+                        <p>Since its inception in 2002, IUT Debating Society has been actively participating in many
                             national and international tournaments.
                             Breaking to the quarter-finals of Malaysia WUDC 2015 and Dutch WUDC 2017 are its recent most
                             remarkable achievements.
@@ -633,7 +635,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="counter__item">
                         <div class="counter__item__number">
-                            <h2 class="count">2007</h2>
+                            <h2 class="count">2002</h2>
                         </div>
                         <div class="counter__item__text">
                             <h5>Estd<br/></h5>
@@ -854,7 +856,7 @@
                         </p>
 
                         <div class="team__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
+{{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
 
                         </div>
                     </div>
@@ -876,7 +878,8 @@
                         </p>
 
                         <div class="team__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/events/682229159236957/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%7D"><i
+                                    class="fa fa-facebook"></i></a>
 
                         </div>
                     </div>
@@ -896,7 +899,7 @@
                         </p>
 
                         <div class="team__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
+{{--                            <a href=""><i class="fa fa-facebook"></i></a>--}}
 
                         </div>
 
@@ -1019,7 +1022,8 @@
 
                     <div class="footer__social">
                         <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
-                        <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i
+                                class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
