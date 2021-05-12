@@ -528,9 +528,9 @@
                             <span class="batch-font">IUT 13</span>
                         </div>
                         <p>A person whose speech is more than a set of words, one of the greatest public speakers in the
-                            history of IUT, very few people can think as creatively as Fahrial Alam can. His widespread
-                            network helped IUTDS to build communication with higher officials. He brought tremendous
-                            achievements for IUT. He is the proud CEO of Bae Engineering Solutions.</p>
+                            history of IUT, very few people can think as creatively as Fahrial Alam. His widespread
+                            network helped IUTDS to build communication with higher officials. He achievement in IUT is
+                            tremendous. He is the proud CEO of Bae Engineering Solutions.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
                         {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
@@ -567,7 +567,7 @@
                             <h5>Muhammad Shihab Rashid</h5>
                             <span class="batch-font">IUT 14</span>
                         </div>
-                        <p>A Bangla debate wonderkid who created a space in IUTDS for him. He compares debating to
+                        <p>A Bangla debate wonderkid who created a space in IUTDS for himself. He compares debating to
                             practical life scenarios and applies the lessons he learned from debate like critical
                             thinking, time management and strategy planning in real life. He is academically
                             outstanding. He served CSE department of IUT as lecturer before he went for Graduate Student
@@ -665,10 +665,10 @@
                             <span class="batch-font">IUT 14</span>
                         </div>
                         <p>A lively person who can easily rile up a group of people in an interesting conversation and
-                            set premise for an event. He cared about his juniors of the clubs, listened to their issues
-                            and gave them mental support. He worked as Vice President in IUTCBS apart from being super
-                            active in IUTDS. He joined BAT after graduation. He is currently working as the Deputy
-                            Director at Walton Hi-Tech Industries Ltd..</p>
+                            set the premise for an event. He cared about the juniors of the club, listened to their
+                            issues and gave them mental support. He worked as Vice President in IUTCBS apart from being
+                            super active in IUTDS. He joined BAT after graduation. He is currently working as the Deputy
+                            Director at Walton Hi-Tech Industries Ltd.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
                         {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
@@ -705,10 +705,10 @@
                             <h5>Ahsan Rejwan Zaman</h5>
                             <span class="batch-font">IUT 15</span>
                         </div>
-                        <p>Ahsan Rejwan Zaman is a mindless brilliant person. He is an expert in Philosophy, Policies
-                            and Principles. He was an efficient problem solver as well as a good debater. He joined
-                            Samsung R&D Institute after graduation. He is loved for his great sense of humor and
-                            brilliant personality.</p>
+                        <p>Ahsan Rejwan Zaman is a brilliant person. He is an expert in Philosophy, Policies and
+                            Principles. He is an efficient problem solver as well as a good debater. He joined Samsung
+                            R&D Institute after graduation. He is loved for his great sense of humor and radiant
+                            personality.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
                         {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
@@ -725,7 +725,11 @@
                             <h5>Shadman Alvy Khan</h5>
                             <span class="batch-font">IUT 15</span>
                         </div>
-                        <p>Shadman Alvy Khan</p>
+                        <p>Shadman Alvy Khan is a motivated individual who is always keen on learning new things. Being
+                            an amazing organizer, he played key roles in organizing events such as IUT Professionals and
+                            Esonance. He is currently an Assistant Engineer at Energypac Engineering and a Senior
+                            photographer & manager at Wedding Edge. Even after fulfilling all his responsibilities, he
+                            manages to find time to travel the world.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
                         {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
@@ -762,8 +766,8 @@
                             <h5>Alvee Akand</h5>
                             <span class="batch-font">IUT 15</span>
                         </div>
-                        <p>Alvee Akand is the pilgrim for training young debaters for BP format in IUT. He served as
-                            president of IUT, conducted regular workshops and sessions for debaters, built a good
+                        <p>Alvee Akand is the best trainer for training young debaters for BP format in IUT. He served
+                            as president of IUT, conducted regular workshops and sessions for debaters, built a good
                             debater friendly environment in the club. He is currently working as a Software Engineer at
                             Educator, New York, United States.</p>
                         {{--                        <div class="team__social">--}}
@@ -781,7 +785,11 @@
                             <h5>Raguib Raihan</h5>
                             <span class="batch-font">IUT 15</span>
                         </div>
-                        <p>Ragiub Raihan</p>
+                        <p>Raguib Raihan, a remarkable exemplary person, who had created a deep impact and made a better
+                            change in all sectors of IUTDS. He started his debating career at JDC. He is an idol for the
+                            debaters who want to pursue the path of becoming an expert tab master and an expert
+                            organizer. He worked for Agro Organic, Nilavo, Singularity, BAT. Currently, he is working as
+                            a consultant at Zunoks.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
                         {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
@@ -826,7 +834,8 @@
 
                     <div class="footer__social">
                         <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
-                        <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i
+                                class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
