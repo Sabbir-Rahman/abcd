@@ -35,7 +35,7 @@
 <div class="offcanvas-menu-overlay"></div>
 <div class="offcanvas-menu-wrapper">
     <div class="offcanvas__logo">
-        <a href="#"><img src="/staging-assets/img/logo.png" alt=""></a>
+        <h4><font color="white">IUTDS</font></h4>
     </div>
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__widget">

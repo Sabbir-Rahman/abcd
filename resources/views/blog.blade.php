@@ -33,7 +33,7 @@
 <div class="offcanvas-menu-overlay"></div>
 <div class="offcanvas-menu-wrapper">
     <div class="offcanvas__logo">
-        <a href="#"><img src="/staging-assets/img/logo.png" alt=""></a>
+        <h4><font color="white">IUTDS</font></h4>
     </div>
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__widget">
@@ -87,9 +87,11 @@
     </div>
 </header>
 <!-- Header Section End -->
+<div id="particles-js">
 
+</div>
 <!-- Blog Details Section Begin -->
-<section class="blog-details spad">
+<section id="blog-1" class="blog-details spad">
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-lg-1">
@@ -173,7 +175,7 @@
 <!-- Blog Details Section End -->
 
 <!-- Blog Details Section Begin -->
-<section class="blog-details spad">
+<section id="blog-2" class="blog-details spad">
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-lg-1">
@@ -279,7 +281,7 @@
 </section>
 <!-- Blog Details Section End -->
 <!-- Blog Details Section Begin -->
-<section class="blog-details spad">
+<section id="blog-3" class="blog-details spad">
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-lg-1">
@@ -475,6 +477,8 @@
 <script src="/staging-assets/js/owl.carousel.min.js"></script>
 <script src="/staging-assets/js/slick.min.js"></script>
 <script src="/staging-assets/js/main.js"></script>
+<script type="text/javascript" src="/js/particles.js"></script>
+<script type="text/javascript" src="/js/app_text.js"></script>
 </body>
 
 </html>

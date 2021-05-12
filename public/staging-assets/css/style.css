@@ -127,6 +127,14 @@ ol {
 	margin: 0;
 }
 
+#show-more-link{
+    color: gainsboro;
+}
+
+#show-more-link:hover{
+    color: orange;
+}
+
 
 .batch-font{
     background-color: #282727;

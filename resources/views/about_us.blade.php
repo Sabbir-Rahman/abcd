@@ -33,7 +33,7 @@
 <div class="offcanvas-menu-overlay"></div>
 <div class="offcanvas-menu-wrapper">
     <div class="offcanvas__logo">
-        <a href="#"><img src="/staging-assets/img/logo.png" alt=""></a>
+        <h4><font color="white">IUTDS</font></h4>
     </div>
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__widget">
@@ -104,6 +104,9 @@
     </div>
 </div>
 <!-- Breadcrumb Section End -->
+<div id="particles-js">
+
+</div>
 <!-- About Section Begin -->
 <section class="about spad">
     <div class="container">
@@ -168,7 +171,7 @@
                 <span>Events We</span>
                 <h2>Organize</h2>
             </div>
-            <div class="row">
+            <div id="iut-professionals-details" class="row">
 
                 <div class="col-lg-3">
 
@@ -208,7 +211,7 @@
                 </div>
 
             </div>
-            <div class="row">
+            <div id="iutds-iv-details" class="row">
 
 
                 <div class="col-lg-9">
@@ -264,7 +267,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-9">
+                <div id="greatness-express-details" class="col-lg-9">
                     <div class="about__text">
                         <div class="section-title">
                             <h2>Greatness Express</h2>
@@ -295,7 +298,7 @@
                 </div>
 
             </div>
-            <div class="row">
+            <div id="cafe-debate-details" class="row">
 
 
                 <div class="col-lg-9">
@@ -430,7 +433,7 @@
 <script src="/staging-assets/js/slick.min.js"></script>
 <script src="/staging-assets/js/main.js"></script>
 <script type="text/javascript" src="/js/particles.js"></script>
-<script type="text/javascript" src="/js/app_alumni.js"></script>
+<script type="text/javascript" src="/js/app_text.js"></script>
 </body>
 
 </html>

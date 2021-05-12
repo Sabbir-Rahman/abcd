@@ -33,7 +33,7 @@
 <div class="offcanvas-menu-overlay"></div>
 <div class="offcanvas-menu-wrapper">
     <div class="offcanvas__logo">
-        <a href="#"><img src="/staging-assets/img/logo.png" alt=""></a>
+        <h4><font color="white">IUTDS</font></h4>
     </div>
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__widget">
@@ -106,9 +106,11 @@
     </div>
 </div>
 <!-- Breadcrumb Section End -->
+<div id="particles-js">
 
+</div>
 <!-- About Section Begin -->
-<section class="about spad">
+<section id="highlights-1" class="about spad">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -147,7 +149,7 @@
             </div>
         </div>
     </div>
-    <div class="container">
+    <div id="highlights-2" class="container">
         <div class="row">
             <div class="col-lg-6">
 
@@ -189,7 +191,7 @@
 
         </div>
     </div>
-    <div class="container">
+    <div id="highlights-3" class="container">
         <div class="row">
             <div class="col-lg-6">
                 <div class="about__text">
@@ -220,7 +222,7 @@
                     <br>
                     <div class="about__pic__inner">
                         <br><br><br><br>
-                        <img src="/img/treasure_hunt_2021_1.jpeg" alt="">
+                        <img src="/img/highlightsImage/engineering_debate_highlights_details.png" alt="">
                     </div>
                 </div>
             </div>
@@ -306,6 +308,10 @@
 <script src="/staging-assets/js/owl.carousel.min.js"></script>
 <script src="/staging-assets/js/slick.min.js"></script>
 <script src="/staging-assets/js/main.js"></script>
+<script type="text/javascript" src="/js/particles.js"></script>
+<script type="text/javascript" src="/js/app_text.js"></script>
+
+
 </body>
 
 </html>
