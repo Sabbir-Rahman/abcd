@@ -7,7 +7,7 @@
     <meta name="keywords" content="Staging, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Staging | Template</title>
+    <title>IUTDS | Hall of fame</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
@@ -268,30 +268,30 @@
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="project__item">
-                    <img src="/img/hall_of_fame/17_suds_fundraiser_iv_finalist.jpg" alt="">
-                    <h3>Finalist</h3>
-                    <h5><font color="orange">SUDS Fundraiser IV</font></h5>
+                    <img src="/img/hall_of_fame/23_dristy_debate_2012_runners_up.jpg" alt="">
+                    <h3>Runner Up</h3>
+                    <h5><font color="orange">Dristy Debate 2012</font></h5>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="project__item">
-                    <img src="/img/hall_of_fame/18_Malaysia_abp_2020_semi_finalist_efl.jpg" alt="">
-                    <h3>Semi Finalist </h3>
-                    <h5><font color="orange">Malaysia abp 2020</font></h5>
+                    <img src="/img/hall_of_fame/24_dmc_debate_fest_2012_runners_up.jpg" alt="">
+                    <h3>Runner Up </h3>
+                    <h5><font color="orange">DMC Debate Fest 2012</font></h5>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="project__item">
-                    <img src="/img/hall_of_fame/17_suds_fundraiser_iv_finalist.jpg" alt="">
-                    <h3>Finalist</h3>
-                    <h5><font color="orange">SUDS Fundraiser IV</font></h5>
+                    <img src="/img/hall_of_fame/25_stamford_iv2015_runner_up.jpg" alt="">
+                    <h3>Runner Up</h3>
+                    <h5><font color="orange">Satmford Iv 2015</font></h5>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="project__item">
-                    <img src="/img/hall_of_fame/18_Malaysia_abp_2020_semi_finalist_efl.jpg" alt="">
-                    <h3>Semi Finalist </h3>
-                    <h5><font color="orange">Malaysia abp 2020</font></h5>
+                    <img src="/img/hall_of_fame/26_uiu_iv_runner_up.jpg" alt="">
+                    <h3>Runner Up </h3>
+                    <h5><font color="orange">UIU IV 2015</font></h5>
                 </div>
             </div>
 
