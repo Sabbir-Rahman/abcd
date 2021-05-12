@@ -38,8 +38,8 @@
     </div>
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__widget">
-        <span>Call us for any questions</span>
-        <h4>+01 123 456 789</h4>
+        <span>Follow us</span>
+        <span><font color="#a9a9a9">facebook.com/iutdebatingsociety</font></span>
     </div>
 </div>
 <!-- Offcanvas Menu End -->
@@ -59,16 +59,21 @@
             <div class="col-lg-6">
                 <nav class="header__menu mobile-menu">
                     <ul>
-                        <li class="active"><a href="./index.html">Home</a></li>
+                        <li class="active"><a href="{{route('home-page')}}">Home</a></li>
                         <li><a href="{{route('hall-of-fame')}}">Hall of fame</a></li>
                         <li><a href="#">Iutds Corner</a>
                             <ul class="dropdown">
-                                <li><a href="./Project-details.html">About Us</a></li>
-                                <li><a href="./blog-details.html">Highlights</a></li>
-                                <li><a href="./blog-details.html">Debate resources</a></li>
+                                <li class="submenu"><a href="{{route('about')}}">About Us</a></li>
+                                <li class="submenu"><a href="{{route('highlights')}}">Highlights</a></li>
+
                             </ul>
                         </li>
-                        <li><a href="./blog.html">Our People</a></li>
+                        <li><a href="#">Our People</a>
+                            <ul class="dropdown">
+                                <li class="submenu"><a href="{{route('present-committee')}}">Present Committee</a></li>
+                                <li class="submenu"><a href="{{route('our-alumni')}}">Our Allumni</a></li>
+                            </ul>
+                        </li>
                         <li><a href="{{route('blog-page')}}">Blog</a></li>
 
                     </ul>
@@ -76,8 +81,8 @@
             </div>
             <div class="col-lg-3">
                 <div class="header__widget">
-                    <span>Call us for any questions</span>
-                    <h4>+01 123 456 789</h4>
+                    <span>Follow us</span>
+                    <span><font color="#a9a9a9">facebook.com/iutdebatingsociety</font></span>
                 </div>
             </div>
         </div>
@@ -104,13 +109,13 @@
                 </div>
             </div>
         </div>
-        <div class="hero__items set-bg" data-setbg="/img/iutds-back.jpg">
+        <div class="hero__items set-bg" data-setbg="/img/bg_eid_wish.jpg">
             <div class="hero__text">
-                <h2>" I think Therefore <br>I am "</h2>
-                <h5><font color="white"><i>-Rene Descartes</i></font></h5>
-                <br><br><br><br>
-                <a href="#" class="primary-btn">Visit Us</a>
-                <a href="#" class="more_btn">Discover more</a>
+                <h2>EID <br>Mubarak</h2>
+{{--                <h5><font color="white"><i>-Rene Descartes</i></font></h5>--}}
+{{--                <br><br><br><br>--}}
+{{--                <a href="#" class="primary-btn">Visit Us</a>--}}
+{{--                <a href="#" class="more_btn">Discover more</a>--}}
                 <div class="hero__social">
                     <a href="#"><i class="fa fa-facebook"></i></a>
                     <a href="#"><i class="fa fa-twitter"></i></a>
@@ -119,6 +124,7 @@
                 </div>
             </div>
         </div>
+
     </div>
     <div class="slide-num" id="snh-1"></div>
     <div class="slider__progress"><span></span></div>
@@ -164,6 +170,53 @@
     </div>
 </section>
 <!-- About Section End -->
+<!--Moderator speech start-->
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+
+                <div class="about__pic">
+                    <br>
+                    <div >
+                        <br><br><br><br>
+
+                        <img src="/img/moderator_Dr_Rashid_2020_Jan.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-9">
+                <div class="about__text">
+                    <div class="section-title">
+                        <span>Greetings from our</span>
+                        <h2>Moderator</h2>
+                    </div>
+                    <div class="about__para__text">
+
+                        <p>Since its inception in 1997, IUT Debating Society has been actively participating in many national and international tournaments.
+                            Breaking to the quarter-finals of Malaysia WUDC 2015 and Dutch WUDC 2017 are its recent most remarkable achievements.
+                            Recently, a team from IUTDS broke 4th in the EFL category of the Asian British Parliamentary Debating Championship 2020.
+                        </p>
+                        <p>Since its inception, the club has achieved national and international glory. The debaters are being recognized for their extraordinary service to the club. Moreover, I’ve seen alumnus from this club flourishing further in their career and they acknowledge the importance of debating skills for it which includes logical reasoning, problem solving and critical thinking. Apart from tremendous achievements of the debaters, a strong bond among the debaters and alumnus is maintained in IUTDS. I have seen this club grow from its root and I’m proud of it. I expect the continuation of the glory of IUTDS.
+                        </p>
+                        <p><strong>
+                                I wish my beloved club the best of luck.
+                            </strong>
+                        </p>
+
+                    </div>
+                    <h4>-DR A R M Harunur Rashid</h4>
+                    <h5>&nbsp&nbspAssociate Professor</h5>
+                    <h5>&nbsp&nbspMechanical and Production Engineering, IUT</h5>
+                    <h5>&nbsp&nbspModerator,IUTDS</h5>
+                    <br><br><br><br><br><br>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!--Moderator speech end-->
 
 <!-- Project Section Begin -->
 <section class="project">
@@ -179,7 +232,7 @@
         <div class="row">
             <div class="project__slider owl-carousel">
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/1_President_Musarrat_Rafa.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/1_President_Musarrat_Rafa.jpg">
                         <div class="project__slider__item__hover">
                             <span>President</span>
                             <h5>Musarrat Rafa</h5>
@@ -187,7 +240,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/2_Vice_President_Muhammad_Rafiul_Mahdi.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/2_Vice_President_Muhammad_Rafiul_Mahdi.jpg">
                         <div class="project__slider__item__hover">
                             <span>Vice President</span>
                             <h5>Muhammad Rafiul Mahadi</h5>
@@ -195,7 +248,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/3_Head_of_Administration_Sayeed_Zamee.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/3_Head_of_Administration_Sayeed_Zamee.jpg">
                         <div class="project__slider__item__hover">
                             <span>Head Of administration</span>
                             <h5>Sayeed Zamee</h5>
@@ -203,7 +256,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/4_Head_of_Internal_Affairs_Hamim_Hamid.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/4_Head_of_Internal_Affairs_Hamim_Hamid.jpg">
                         <div class="project__slider__item__hover">
                             <span>Head Of Internal Affairs</span>
                             <h5>Hamim Hamid</h5>
@@ -211,7 +264,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/5_Head_of_Publications_Mubtaseem_Zawad.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/5_Head_of_Publications_Mubtaseem_Zawad.jpg">
                         <div class="project__slider__item__hover">
                             <span>Head Of Publication</span>
                             <h5>Mubtaseem Zawad</h5>
@@ -219,7 +272,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/6_Head_of_Content_Development_Vubon_Chowdhury.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/6_Head_of_Content_Development_Vubon_Chowdhury.jpg">
                         <div class="project__slider__item__hover">
                             <span>Head Of Content Development</span>
                             <h5>Vubon Chowdhury</h5>
@@ -227,7 +280,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/7_Head_of_Communications_Shamaita_Shabnam.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/7_Head_of_Communications_Shamaita_Shabnam.jpg">
                         <div class="project__slider__item__hover">
                             <span>Head Of Communications</span>
                             <h5>Shamaita Shabnam</h5>
@@ -235,7 +288,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/8_Head_of_Event_Management_Lamisa_Shams.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/8_Head_of_Event_Management_Lamisa_Shams.jpg">
                         <div class="project__slider__item__hover">
                             <span>Head Of Event Management</span>
                             <h5>Lamisa Shams</h5>
@@ -243,7 +296,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/9_Senior_Executive_Eshrar_Promitee.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/9_Senior_Executive_Eshrar_Promitee.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Executive</span>
                             <h5>Eshrar Promitee</h5>
@@ -251,7 +304,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/10_Senior_Executive_Maheer_Asef.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/10_Senior_Executive_Maheer_Asef.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Executive</span>
                             <h5>Maheer Asef</h5>
@@ -260,7 +313,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/11_Senior_Executive_Mahin_Nur.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/11_Senior_Executive_Mahin_Nur.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Executive</span>
                             <h5>Mahin Nur</h5>
@@ -268,7 +321,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/12_Senior_Executive_Nabila_Tasnim_Suprova.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/12_Senior_Executive_Nabila_Tasnim_Suprova.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Executive</span>
                             <h5>Nabila Tasnim Suprova</h5>
@@ -276,7 +329,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/13-Senior_Executive_Omar_Ahsan.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/13_Senior_Executive_Omar_Ahsan.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Executive</span>
                             <h5>Omar Ahsan</h5>
@@ -284,7 +337,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/14_Senior_Executive_Raisa_Labiba_Khan.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/14_Senior_Executive_Raisa_Labiba_Khan.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Executive</span>
                             <h5>Raisa Labiba Khan</h5>
@@ -292,7 +345,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/15_Senior_Executive_Samia_Tasnim.jpeg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/15_Senior_Executive_Samia_Tasnim.jpeg">
                         <div class="project__slider__item__hover">
                             <span>Samia Tasnim</span>
                             <h5></h5>
@@ -300,7 +353,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/16_Senior_Executive_Tahmidul_Islam.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/16_Senior_Executive_Tahmidul_Islam.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Executive</span>
                             <h5>Tahmidul Islam</h5>
@@ -308,7 +361,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/17_Senior_Executive_Zarrin_Tasnim.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/17_Senior_Executive_Zarrin_Tasnim.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Executive</span>
                             <h5>Zarrin Tasnim</h5>
@@ -317,7 +370,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/18_General_Secretary_Mutiul_Muhaimin.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/18_General_Secretary_Mutiul_Muhaimin.jpg">
                         <div class="project__slider__item__hover">
                             <span>General Secretary</span>
                             <h5>Mutiul Muhaimin</h5>
@@ -326,7 +379,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/19_Joint_Secretary_Zahin_Raidah.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/19_Joint_Secretary_Zahin_Raidah.jpg">
                         <div class="project__slider__item__hover">
                             <span>Joint Secretary</span>
                             <h5>Zahin Raidah</h5>
@@ -335,7 +388,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/20_Treasurer_Fahad_Ahmed_Evan.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/20_Treasurer_Fahad_Ahmed_Evan.jpg">
                         <div class="project__slider__item__hover">
                             <span>Treasurer</span>
                             <h5>Fahad Ahmed evan</h5>
@@ -343,7 +396,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/21_Secretary_Admin_Nushera_Tazreen.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/21_Secretary_Admin_Nushera_Tazreen.jpg">
                         <div class="project__slider__item__hover">
                             <span>Secretary (Admin)</span>
                             <h5>Nushera Tazreen</h5>
@@ -351,7 +404,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/22_Secretary_Internal_Affairs_Maruful_Islam.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/22_Secretary_Internal_Affairs_Maruful_Islam.jpg">
                         <div class="project__slider__item__hover">
                             <span>Secretary (Internal Affairs)</span>
                             <h5>Maruful Islam</h5>
@@ -359,7 +412,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/23_Secretary_Communications_Mahdia_Akter.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/23_Secretary_Communications_Mahdia_Akter.jpg">
                         <div class="project__slider__item__hover">
                             <span>Secretary (Communications)</span>
                             <h5>Mahdia Akter</h5>
@@ -367,7 +420,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/24_Secretary_Liaison_Zubayer_Kabir_Eisham.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/24_Secretary_Liaison_Zubayer_Kabir_Eisham.jpg">
                         <div class="project__slider__item__hover">
                             <span>Secretary (Liaison)</span>
                             <h5>Zubayer Kabir Eisham</h5>
@@ -375,7 +428,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/25_Public_Relations_Officer_Sameeul_Amin_Dhrubo.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/25_Public_Relations_Officer_Sameeul_Amin_Dhrubo.jpg">
                         <div class="project__slider__item__hover">
                             <span>Public Relations Officer</span>
                             <h5>Sameeul Amin Dhrubo</h5>
@@ -384,7 +437,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/26_Admin_Officer_Asir_Saadat_Nipun.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/26_Admin_Officer_Asir_Saadat_Nipun.jpg">
                         <div class="project__slider__item__hover">
                             <span>Admin Officer</span>
                             <h5>Asir Saadat Nipun</h5>
@@ -393,7 +446,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/27_Admin_Officer_Taukir_Azam_Chowdhury.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/27_Admin_Officer_Taukir_Azam_Chowdhury.jpg">
                         <div class="project__slider__item__hover">
                             <span>Admin Officer</span>
                             <h5>Taukir Azam Chowdhury</h5>
@@ -402,7 +455,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/28_Logistic_Officer_Kashifa_Kawaakib.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/28_Logistic_Officer_Kashifa_Kawaakib.jpg">
                         <div class="project__slider__item__hover">
                             <span>Logistic Officer</span>
                             <h5>Kashifa Kawaakib</h5>
@@ -411,7 +464,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/29_Logistic_Officer_MD_Sabbir_Rahman.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/29_Logistic_Officer_MD_Sabbir_Rahman.jpg">
                         <div class="project__slider__item__hover">
                             <span>Logistic Officer</span>
                             <h5>MD Sabbir Rahman</h5>
@@ -420,7 +473,7 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/30_Equity_Officer_Sumaieta_Tasnim.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/30_Equity_Officer_Sumaieta_Tasnim.jpg">
                         <div class="project__slider__item__hover">
                             <span>Equity Officer</span>
                             <h5>Sumaieta Tasnim</h5>
@@ -428,7 +481,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/31_Senior_Member_Afsana_Bushra.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/31_Senior_Member_Afsana_Bushra.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Member</span>
                             <h5>Afsana Bushra</h5>
@@ -436,7 +489,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/32_Senior_Member_Antara_Raisa.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/32_Senior_Member_Antara_Raisa.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Member</span>
                             <h5>Antara Raisa</h5>
@@ -444,7 +497,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/33_Senior_Member_Mim.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/33_Senior_Member_Mim.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Member</span>
                             <h5>Mim</h5>
@@ -452,7 +505,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/34_Senior_Member_Mohammad_Ishraq_Hossain.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/34_Senior_Member_Mohammad_Ishraq_Hossain.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Member</span>
                             <h5>Mohammad Ishraq Hossain</h5>
@@ -460,7 +513,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3">
-                    <div class="project__slider__item set-bg" data-setbg="/img/commiteeImage/35_Senior_Member_Samiha_Anuva.jpg">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/35_Senior_Member_Samiha_Anuva.jpg">
                         <div class="project__slider__item__hover">
                             <span>Senior Member</span>
                             <h5>Sumaieta Tasnim</h5>
@@ -525,40 +578,41 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="counter__item">
                         <div class="counter__item__number">
-                            <h2 class="count">85</h2>
+                            <h2 class="count">2007</h2>
                         </div>
                         <div class="counter__item__text">
-                            <h5>Projects<br /> Completed</h5>
+                            <h5>Estd<br /> </h5>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="counter__item">
                         <div class="counter__item__number">
-                            <h2 class="count">127</h2>
+                            <h2 class="count">35</h2>
                         </div>
                         <div class="counter__item__text">
-                            <h5>Happy<br /> Clients</h5>
+                            <h5>Executives<br /> </h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="counter__item">
+                        <div class="counter__item__number">
+                            <h2 class="count">60</h2>
+                        </div>
+                        <div class="counter__item__text">
+                            <h5>Alumni<br /> </h5>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="counter__item">
                         <div class="counter__item__number">
-                            <h2 class="count">36</h2>
+                            <h2 class="count">30</h2>
                         </div>
                         <div class="counter__item__text">
-                            <h5>Awards<br /> Received</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="counter__item">
-                        <div class="counter__item__number">
-                            <h2 class="count">74</h2>
-                        </div>
-                        <div class="counter__item__text">
-                            <h5>Cups Of<br /> Coffee</h5>
+                            <h5>Achievements<br /> </h5>
                         </div>
                     </div>
                 </div>
@@ -720,8 +774,8 @@
         <div class="row">
             <div class="col-lg-9 col-md-8 col-sm-6">
                 <div class="section-title">
-                    <span>Our Alumni</span>
-                    <h2>Meet our Alumni</h2>
+                    <span>Our</span>
+                    <h2>Highlights</h2>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
@@ -735,8 +789,8 @@
                 <div class="team__item set-bg" data-setbg="/img/alumniImage/1_rishad_shafiq.jpg">
                     <div class="team__text">
                         <div class="team__title">
-                            <h5>Rishad Shafik</h5>
-                            <span>Ex IUTDS</span>
+                            <h5>Treasure Hunt</h5>
+                            <span>2020</span>
                         </div>
                         <p>Vestibulum dapibus odio quam, sit amet hendrerit dui ultricies consectetur. Ut viverra
                             porta leo, non tincidunt mauris condimentum eget. Vivamus non turpis elit. Aenean
@@ -753,8 +807,8 @@
                 <div class="team__item set-bg" data-setbg="/img/alumniImage/2_alvee_akand.jpg">
                     <div class="team__text">
                         <div class="team__title">
-                            <h5>Alvee Akand</h5>
-                            <span>Ex President IUT-15</span>
+                            <h5>Greatness Express</h5>
+                            <span>2020</span>
                         </div>
                         <p>Vestibulum dapibus odio quam, sit amet hendrerit dui ultricies consectetur. Ut viverra
                             porta leo, non tincidunt mauris condimentum eget. Vivamus non turpis elit. Aenean
@@ -771,8 +825,8 @@
                 <div class="team__item set-bg" data-setbg="/img/alumniImage/3_wakil_ahmed_arnob.jpg">
                     <div class="team__text">
                         <div class="team__title">
-                            <h5>Wakil Ahmed Arnab</h5>
-                            <span>Ex Vice President IUT-16</span>
+                            <h5>Enginnering Debate</h5>
+                            <span>Upcomming</span>
                         </div>
                         <p>Vestibulum dapibus odio quam, sit amet hendrerit dui ultricies consectetur. Ut viverra
                             porta leo, non tincidunt mauris condimentum eget. Vivamus non turpis elit. Aenean
@@ -786,62 +840,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6">
-                <div class="team__item set-bg" data-setbg="/staging-assets/img/team/team-1.jpg">
-                    <div class="team__text">
-                        <div class="team__title">
-                            <h5>Dolores Webster</h5>
-                            <span>CEO & Founder</span>
-                        </div>
-                        <p>Vestibulum dapibus odio quam, sit amet hendrerit dui ultricies consectetur. Ut viverra
-                            porta leo, non tincidunt mauris condimentum eget. Vivamus non turpis elit. Aenean
-                            ultricies nisl sit amet.</p>
-                        <div class="team__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="team__item set-bg" data-setbg="/staging-assets/img/team/team-2.jpg">
-                    <div class="team__text">
-                        <div class="team__title">
-                            <h5>Dana Vaughn</h5>
-                            <span>Architect</span>
-                        </div>
-                        <p>Vestibulum dapibus odio quam, sit amet hendrerit dui ultricies consectetur. Ut viverra
-                            porta leo, non tincidunt mauris condimentum eget. Vivamus non turpis elit. Aenean
-                            ultricies nisl sit amet.</p>
-                        <div class="team__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="team__item set-bg" data-setbg="/staging-assets/img/team/team-3.jpg">
-                    <div class="team__text">
-                        <div class="team__title">
-                            <h5>Jonathan Mcdaniel</h5>
-                            <span>Architect</span>
-                        </div>
-                        <p>Vestibulum dapibus odio quam, sit amet hendrerit dui ultricies consectetur. Ut viverra
-                            porta leo, non tincidunt mauris condimentum eget. Vivamus non turpis elit. Aenean
-                            ultricies nisl sit amet.</p>
-                        <div class="team__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+
     </div>
 </section>
 <!-- Team Section End -->
@@ -869,7 +868,7 @@
         <div class="row">
             <div class="col-lg-9 col-md-8 col-sm-6">
                 <div class="section-title">
-                    <span>Latest News</span>
+                    <span>Latest</span>
                     <h2>From our blog</h2>
                 </div>
             </div>
@@ -883,36 +882,36 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="latest__item">
                     <div class="latest__item__pic">
-                        <img src="/staging-assets/img/blog/latest-1.jpg" alt="">
+                        <img src="/img/blogImage/How_To_Look_Pretty_by_Tahya_1.jpeg" alt="">
                     </div>
                     <div class="latest__item__text">
-                        <span>Architecture</span>
-                        <h4>Target and Amazon Shopping List for Home Stagers</h4>
-                        <a href="#">Read more</a>
+                        <span>Self Care</span>
+                        <h4>How To Look Pretty<br><br></h4>
+                        <a href="#">Tahya Ahmed Bisma</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="latest__item">
                     <div class="latest__item__pic">
-                        <img src="/staging-assets/img/blog/latest-2.jpg" alt="">
+                        <img src="/img/blogImage/belief.jpg" alt="">
                     </div>
                     <div class="latest__item__text">
-                        <span>Interior</span>
-                        <h4>6 Ideas for Team Building and Employee Appreciation for Home Stagers</h4>
-                        <a href="#">Read more</a>
+                        <span>Thinking</span>
+                        <h4>Belief <br><br></h4>
+                        <a href="#">Nokimul Hasan Arif</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="latest__item">
                     <div class="latest__item__pic">
-                        <img src="/staging-assets/img/blog/latest-3.jpg" alt="">
+                        <img src="/img/blogImage/life_matters_blog_arpi.jpg" alt="">
                     </div>
                     <div class="latest__item__text">
-                        <span>Planning</span>
-                        <h4>How to Find the Best Price Structure for Your Home Staging Services</h4>
-                        <a href="#">Read more</a>
+                        <span>Activism</span>
+                        <h4>What Is Activism<br><br></h4>
+                        <a href="#">Safoat Saima Arpi</a>
                     </div>
                 </div>
             </div>
@@ -924,34 +923,30 @@
 <!-- Footer Section Begin -->
 <footer class="footer set-bg" data-setbg="/staging-assets/img/footer-bg.jpg">
     <div class="container">
-        <div class="footer__top">
-            <div class="row">
-                <div class="col-lg-8 col-md-6">
-                    <div class="footer__top__text">
-                        <h2>Ready To Work With Us?</h2>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="footer__top__newslatter">
-                        <form action="#">
-                            <input type="text" placeholder="Enter your email...">
-                            <button type="submit"><i class="fa fa-send"></i></button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
+        {{--        <div class="footer__top">--}}
+        {{--            <div class="row">--}}
+        {{--                <div class="col-lg-8 col-md-6">--}}
+        {{--                    <div class="footer__top__text">--}}
+        {{--                        <h2>Ready To Work With Us?</h2>--}}
+        {{--                    </div>--}}
+        {{--                </div>--}}
+        {{--                <div class="col-lg-4 col-md-6">--}}
+        {{--                    <div class="footer__top__newslatter">--}}
+        {{--                        <form action="#">--}}
+        {{--                            <input type="text" placeholder="Enter your email...">--}}
+        {{--                            <button type="submit"><i class="fa fa-send"></i></button>--}}
+        {{--                        </form>--}}
+        {{--                    </div>--}}
+        {{--                </div>--}}
+        {{--            </div>--}}
+        {{--        </div>--}}
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer__about">
                     <div class="footer__logo">
-                        <a href="#"><img src="/staging-assets/img/logo.png" alt=""></a>
+                        <h3><font color="#dcdcdc">IUTDS</font></h3>
                     </div>
-                    <p>7176 Blue Spring Lane <br />Santa Monica, CA 90403</p>
-                    <ul>
-                        <li>Info.colorlib@gmail.com</li>
-                        <li>+84 123 456 789</li>
-                    </ul>
+
                     <div class="footer__social">
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>
@@ -960,56 +955,28 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 offset-lg-1 col-md-3 col-sm-6">
-                <div class="footer__widget">
-                    <h6>Company</h6>
-                    <ul>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Our Works</a></li>
-                        <li><a href="#">Career</a></li>
-                        <li><a href="#">FAQs</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-6">
-                <div class="footer__widget">
-                    <h6>Services</h6>
-                    <ul>
-                        <li><a href="#">Architecture</a></li>
-                        <li><a href="#">Interior Design</a></li>
-                        <li><a href="#">Exterior Design</a></li>
-                        <li><a href="#">Planning</a></li>
-                    </ul>
-                </div>
-            </div>
+
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="footer__address">
                     <h6>Get In Touch</h6>
-                    <p>7176 Blue Spring Lane <br />Santa Monica, CA 90403</p>
+                    <p>Islamic University of Technology <br />Gazipur,Dhaka,Bangladesh</p>
                     <ul>
-                        <li>Info.colorlib@gmail.com</li>
-                        <li>+84 123 456 789</li>
+                        <li>iutds001@gmail.com</li>
+
                     </ul>
                 </div>
             </div>
         </div>
         <div class="copyright">
             <div class="row">
-                <div class="col-lg-8 col-md-7">
+                <div class="col-lg-12">
                     <div class="copyright__text">
                         <p>Copyright © <script>
                                 document.write(new Date().getFullYear());
-                            </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
-                                                                                          aria-hidden="true"></i> by <a href="https://colorlib.com"
-                                                                                                                        target="_blank">Colorlib</a>
+                            </script> All rights reserved by <strong><font color="#dcdcdc">IUTDS</font></strong> | This website is made with <i class="fa fa-heart-o"
+                                                                                                                                                aria-hidden="true"></i> by <strong><font color="#d3d3d3">IUTDS</font></strong> and with the help of <a href="https://colorlib.com"
+                                                                                                                                                                                                                                                       target="_blank"><font color="#d3d3d3">Colorlib template<font></font></a>
                         </p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-5">
-                    <div class="copyright__widget">
-                        <a href="#">Terms of use</a>
-                        <a href="#">Privacy Policy</a>
                     </div>
                 </div>
             </div>
