@@ -127,6 +127,13 @@ ol {
 	margin: 0;
 }
 
+#blog-source-link{
+    color: #1b1e21;
+}
+#blog-source-link:hover{
+    color: orange;
+}
+
 #show-more-link{
     color: gainsboro;
 }

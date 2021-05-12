@@ -527,9 +527,10 @@
                             <h5>Fahrial ALam</h5>
                             <span class="batch-font">IUT 13</span>
                         </div>
-                        <p>A passionate and creative person.He likes science fiction,cosmic horror, games. He is the founder of IUTCBS. He worked for KITC as a Territory Officer
-                            and in Avery Dennison as a GOLD Associate. He is currently the ceo of Bae engineering
-                            solution. He is the mastermind behind some extraordinary creation.</p>
+                        <p>A person whose speech is more than a set of words, one of the greatest public speakers in the
+                            history of IUT, very few people can think as creatively as Fahrial Alam can. His widespread
+                            network helped IUTDS to build communication with higher officials. He brought tremendous
+                            achievements for IUT. He is the proud CEO of Bae Engineering Solutions.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
                         {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
@@ -684,9 +685,9 @@
                             <span class="batch-font">IUT 15</span>
                         </div>
                         <p>If Tabbing is an Art, Wakil Arnob is the Picasso of it. Apart from being a debater, he was
-                            called in huge events for tabbing. He had maintained a lot of issued regarding IUT. People
+                            called in huge events for tabbing. He had maintained a lot of issues regarding IUT. People
                             tend to follow him for his leadership skills and wholesome personality. He helped juniors
-                            from many sticky situations. He is currently working as Engineering Officer at Incepta
+                            out of many sticky situations. He is currently working as Engineering Officer at Incepta
                             Pharmaceuticals Ltd.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
@@ -824,10 +825,8 @@
                     </div>
 
                     <div class="footer__social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>

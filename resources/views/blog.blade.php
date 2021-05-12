@@ -104,7 +104,7 @@
                 <div class="blog__details__content">
                     <div class="blog__details__title">
                         <ul>
-                            <li>December 20, 2019</li>
+                            <li>May 10, 2021</li>
                             <li>By Tahya Ahmed Bisma</li>
                             <li>Self Care</li>
                         </ul>
@@ -188,7 +188,7 @@
                 <div class="blog__details__content">
                     <div class="blog__details__title">
                         <ul>
-                            <li>December 20, 2019</li>
+                            <li>May 10, 2021</li>
                             <li>Nokimul Hasan Arif</li>
                             <li>Thinking</li>
                         </ul>
@@ -294,7 +294,7 @@
                 <div class="blog__details__content">
                     <div class="blog__details__title">
                         <ul>
-                            <li>December 20, 2019</li>
+                            <li>May 12, 2021</li>
                             <li>Safoat Saima Arpi</li>
                             <li>Activism</li>
                         </ul>
@@ -389,10 +389,11 @@
                         As activism serves our crying needs, it has turned into a powerful tool for
                         accelerating development. For better tomorrow, an upward spiral of activism is
                         vital.
-                        <br><br><br>
-                        <a href="https://www.britannica.com/biographies/history/activism">https://www.britannica.com/biographies/history/activism</a>
+                        <br><br>
+                        <span>For more reading</span><br>
+                        <a id="blog-source-link" href="https://www.britannica.com/biographies/history/activism">https://www.britannica.com/biographies/history/activism</a>
                         <br>
-                        <a href="https://en.wikipedia.org/wiki/Activism">https://en.wikipedia.org/wiki/Activism</a>
+                        <a id="blog-source-link" href="https://en.wikipedia.org/wiki/Activism">https://en.wikipedia.org/wiki/Activism</a>
                     </p>
 
                 </div>
@@ -429,10 +430,8 @@
                     </div>
 
                     <div class="footer__social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>

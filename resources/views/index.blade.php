@@ -102,10 +102,8 @@
                 <a href="#" class="primary-btn">Visit Us</a>
                 <a href="#" class="more_btn">Discover more</a>
                 <div class="hero__social">
-                    <a href="#"><i class="fa fa-facebook"></i></a>
-                    <a href="#"><i class="fa fa-twitter"></i></a>
-                    <a href="#"><i class="fa fa-instagram"></i></a>
-                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i class="fa fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
@@ -117,10 +115,8 @@
                 {{--                <a href="#" class="primary-btn">Visit Us</a>--}}
                 {{--                <a href="#" class="more_btn">Discover more</a>--}}
                 <div class="hero__social">
-                    <a href="#"><i class="fa fa-facebook"></i></a>
-                    <a href="#"><i class="fa fa-twitter"></i></a>
-                    <a href="#"><i class="fa fa-instagram"></i></a>
-                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i class="fa fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
@@ -239,7 +235,7 @@
             <div class="col-lg-12 text-center">
                 <div class="section-title">
                     <span>Our</span>
-                    <h2>Commitee</h2>
+                    <h2>Committee</h2>
                 </div>
             </div>
         </div>
@@ -593,9 +589,7 @@
                         <img src="/img/eventsImage/cafe_debate_little_logo.png" alt="" width="60%">
                         <h4>Cafe Debate</h4>
                         <br>
-                        <p>As you might expect of a company that began as a high-end interiors contractor, we pay
-                            strict
-                            attention.</p>
+                        <p>The yearly fun debate on Club Fresher’s Day for all the icebreaking</p>
                     </div>
                 </a>
             </div>
@@ -604,8 +598,7 @@
                     <div class="services__item">
                         <img src="/img/eventsImage/greatness_express_little_logo.png" alt="" width="60%">
                         <h4>Iutds Greatness Express</h4>
-                        <p>Our commitment to exceptional quality has never wavered. To day ranks as one of the most
-                            highly-regarded construction.</p>
+                        <p>The yearly novice tournament to find out the best debaters among the freshers</p>
                     </div>
                 </a>
             </div>
@@ -615,8 +608,9 @@
                         <img src="/img/eventsImage/iutdsiv_little_logo.png" alt="" width="60%">
                         <h4>Iutds IV</h4>
                         <br>
-                        <p>Interdisciplinary architectural studio with cultural, residential and commercial projects
-                            built worldwide.</p>
+                        <p>The biggest debate tournament organized by IUTDS comprising of teams from both the national
+                            and international arena
+                        </p>
                     </div>
                 </a>
             </div>
@@ -625,8 +619,9 @@
                     <div class="services__item">
                         <img src="/img/eventsImage/professionals_little_logo.png" alt="" width="60%">
                         <h4>Iutds Professional</h4>
-                        <p>Creating architectural and creative solutions to help people realize their vision and make
-                            them a reality.</p>
+                        <p>IUT Professionals is the flagship event of IUTDS hosting the most competitive debates from
+                            the strongest of teams.
+                        </p>
                     </div>
                 </a>
 
@@ -891,8 +886,8 @@
                 <div class="team__item set-bg" data-setbg="/img/indexImage/enginnering_debate_index_highlights.jpg">
                     <div class="team__text">
                         <div class="team__title">
-                            <h5>Enginnering Debate</h5>
-                            <span>Upcomming</span>
+                            <h5>Engineering Debate</h5>
+                            <span>Upcoming</span>
                         </div>
                         <p>The upcoming Engineering Debate 2020 will be a concoction of fun and logic. The departments
                             of IUT will be partaking in a jovial war of logics on humorous motions. Also, there will be
@@ -1023,10 +1018,8 @@
                     </div>
 
                     <div class="footer__social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
-                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.linkedin.com/company/iut-debating-society/about/"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
