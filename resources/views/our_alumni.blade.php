@@ -70,7 +70,7 @@
                         <li class="active"><a href="#">Our People</a>
                             <ul class="dropdown">
                                 <li class="submenu"><a href="{{route('present-committee')}}">Present Committee</a></li>
-                                <li class="submenu"><a href="#">Our Allumni</a></li>
+                                <li class="submenu"><a href="#">Our Alumni</a></li>
                             </ul>
                         </li>
                         <li><a href="{{route('blog-page')}}">Blog</a></li>
@@ -464,12 +464,12 @@
                      data-setbg="/img/alumniImage/18_Tanvir_Hossain_Mehedi_12_Vice_President.jpg">
                     <div class="team__text">
                         <div class="team__title">
-                            <h5>Tanvir Hossain Mehedi</h5>
+                            <h5>Tanveer Hossain Mehedi</h5>
                             <span class="batch-font">IUT 12</span>
                         </div>
                         <p>A person with great academic excellence, gold medalist, debater, business case solver, data
                             scientist, problem solver, passionate traveler, critical thinker:-I’m sure you'll run out of
-                            attributes to define the greatness of TanveerMehedi. His presence in the club will prove to
+                            attributes to define the greatness of Tanveer Mehedi. His presence in the club will prove to
                             the newcomers that you can still flourish as a debater maintaining your academics at the
                             same time.</p>
                         {{--                        <div class="team__social">--}}

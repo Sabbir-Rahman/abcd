@@ -67,7 +67,7 @@
                         <li><a href="#">Our People</a>
                             <ul class="dropdown">
                                 <li class="submenu"><a href="{{route('present-committee')}}">Present Committee</a></li>
-                                <li class="submenu"><a href="{{route('our-alumni')}}">Our Allumni</a></li>
+                                <li class="submenu"><a href="{{route('our-alumni')}}">Our Alumni</a></li>
                             </ul>
                         </li>
                         <li><a href="{{route('blog-page')}}">Blog</a></li>
