@@ -1010,8 +1010,8 @@ ol {
 
 .team__item:hover .team__text .team__title {
 	border-bottom: 1px solid rgba(183, 183, 183, 0.2);
-	padding: 0 0 32px;
-	margin-bottom: 34px;
+	padding: 0 0 2px;
+	margin-bottom: 4px;
 	opacity: 0;
 	visibility: hidden;
 	position: relative;
@@ -3106,4 +3106,7 @@ ol {
 	.footer__top__text h2 {
 		font-size: 32px;
 	}
+
+
+
 }

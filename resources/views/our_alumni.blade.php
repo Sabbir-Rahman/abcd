@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="/staging-assets/css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="/staging-assets/css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="/staging-assets/css/style.css" type="text/css">
+    <link rel="stylesheet" href="/css/pagination.css" type="text/css">
 
 </head>
 
@@ -40,7 +41,9 @@
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__widget">
         <span>Follow us</span>
-        <span><font color="#a9a9a9">facebook.com/iutdebatingsociety</font></span>
+        <a href="https://www.facebook.com/iutdebatingsociety">
+            <font color="#a9a9a9">facebook.com/iutdebatingsociety</font>
+        </a>
     </div>
 </div>
 <!-- Offcanvas Menu End -->
@@ -81,7 +84,9 @@
             <div class="col-lg-3">
                 <div class="header__widget">
                     <span>Follow us</span>
-                    <span><font color="#a9a9a9">facebook.com/iutdebatingsociety</font></span>
+                    <a href="https://www.facebook.com/iutdebatingsociety">
+                        <font color="#a9a9a9">facebook.com/iutdebatingsociety</font>
+                    </a>
                 </div>
             </div>
         </div>
@@ -110,6 +115,7 @@
 <div id="particles-js">
 
 </div>
+
 <!-- Team Section Begin -->
 <section class="team spad">
     <div class="container">
@@ -147,7 +153,7 @@
                 <div class="team__item set-bg" data-setbg="/img/alumniImage/2_Mabroor_Wassey_03_President.jpg">
                     <div class="team__text">
                         <div class="team__title">
-                            <h5>Mabroo Wassey</h5>
+                            <h5>Mabroor Wassey</h5>
                             <span class="batch-font">IUT 03</span>
                         </div>
                         <p>Mabroor Wassey is a robust name for being one of the pioneers in international debate in
@@ -549,8 +555,7 @@
                         <p>A brilliant programmer, problem solver Sadaf MD Halim is the ideal exemplar for young CSE
                             students to become equally skillful in programming as well as debating. His academic
                             excellence proves how debating skill can help a person to be efficient in time management
-                            and critical thinking. He completed Masters in Computer Science with a perfect 4.00 (out of
-                            4.00).</p>
+                            and critical thinking. He completed Masters in Computer Science with a mindblowing result</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
                         {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
@@ -567,11 +572,11 @@
                             <h5>Muhammad Shihab Rashid</h5>
                             <span class="batch-font">IUT 14</span>
                         </div>
-                        <p>A Bangla debate wonderkid who created a space in IUTDS for himself. He compares debating to
-                            practical life scenarios and applies the lessons he learned from debate like critical
-                            thinking, time management and strategy planning in real life. He is academically
-                            outstanding. He served CSE department of IUT as lecturer before he went for Graduate Student
-                            Researcher in University of California, Riverside.</p>
+                        <p>Beginning his career from school, Rashid immediately created a space for himself in IUTDS. He
+                            compares debating to practical life scenarios and applies the lessons he learned from debate
+                            in real life. His excellence in debating has led him to serve the department of CSE in IUT
+                            before moving on to be the Graduate Student Researcher in University of California,
+                            Riverside.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
                         {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
@@ -798,12 +803,78 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="team__item set-bg" data-setbg="/img/alumniImage/32_president_musarrat_rafa_16.JPG">
+                    <div class="team__text">
+                        <div class="team__title">
+                            <h5>Musarrat Rafa</h5>
+                            <span class="batch-font">IUT 16</span>
+                        </div>
+                        <p>Rafa will be fierce to call out your misogyny and resolute. This mechanical engineer will
+                            leave you surprised with her academic rigor while competing in tournaments home and abroad.
+                            She led IUTDS as President, Youth Policy Forum as Research and Policy Lead during the
+                            uncertainty of the pandemic and still managed to land the position of Management Trainee in
+                            one of the most giant MNCs out there.. <br>– Ha-mim Hamid</p>
+                        {{--                        <div class="team__social">--}}
+                        {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
+                        {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
+                        {{--                            <a href="#"><i class="fa fa-instagram"></i></a>--}}
+                        {{--                        </div>--}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="team__item set-bg"
+                     data-setbg="/img/alumniImage/33_Vice_President_Muhammad_Rafiul_Mahdi_16.jpg">
+                    <div class="team__text">
+                        <div class="team__title">
+                            <h5>Muhamamd Rafiul Mahdi</h5>
+                            <span class="batch-font">IUT 16</span>
+                        </div>
+                        <p>Sort of difficult to pen down anything about Rafiul without tons of memories gushing in.
+                            Rafiul probably has 99 qualities that make him who he is, but it would be his ability to
+                            comfort if I were to choose one. His unusual talent of calming everyone down and carrying on
+                            real work is rare. As they say, we are all talk and no work; it magnifies to infinity in,
+                            say, a debate club where the average is naturally good in the 'talk.' Let's say you broke
+                            someone's nose, just call Rafiul. I'm sure he will make things like shit never happened.
+                            <br>– Musarrat Khan Rafa</p>
+                        {{--                        <div class="team__social">--}}
+                        {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
+                        {{--                            <a href="#"><i class="fa fa-twitter"></i></a>--}}
+                        {{--                            <a href="#"><i class="fa fa-instagram"></i></a>--}}
+                        {{--                        </div>--}}
+                    </div>
+                </div>
+            </div>
 
         </div>
 
     </div>
 </section>
 <!-- Team Section End -->
+
+<!-- Pagination start -->
+<div class="demo">
+
+    <nav class="pagination-outer" aria-label="Page navigation">
+        <ul class="pagination">
+            <li class="page-item">
+                <a href="#" class="page-link" aria-label="Previous">
+                    <span aria-hidden="true">«</span>
+                </a>
+            </li>
+            <li class="page-item active"><a class="page-link" href="#">1</a></li>
+            <li class="page-item "><a class="page-link" href="{{route('our-alumni-second')}}">2</a></li>
+            <li class="page-item">
+                <a href="{{route('our-alumni-second')}}" class="page-link" aria-label="Next">
+                    <span aria-hidden="true">»</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <br><br>
+
+</div>
 
 <!-- Footer Section Begin -->
 <footer class="footer set-bg" data-setbg="/staging-assets/img/footer-bg.jpg">

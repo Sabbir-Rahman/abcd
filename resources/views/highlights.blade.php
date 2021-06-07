@@ -38,7 +38,9 @@
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__widget">
         <span>Follow us</span>
-        <span><font color="#a9a9a9">facebook.com/iutdebatingsociety</font></span>
+        <a href="https://www.facebook.com/iutdebatingsociety">
+            <font color="#a9a9a9">facebook.com/iutdebatingsociety</font>
+        </a>
     </div>
 </div>
 <!-- Offcanvas Menu End -->
@@ -80,7 +82,9 @@
             <div class="col-lg-3">
                 <div class="header__widget">
                     <span>Follow us</span>
-                    <span><font color="#a9a9a9">facebook.com/iutdebatingsociety</font></span>
+                    <a href="https://www.facebook.com/iutdebatingsociety">
+                        <font color="#a9a9a9">facebook.com/iutdebatingsociety</font>
+                    </a>
                 </div>
             </div>
         </div>

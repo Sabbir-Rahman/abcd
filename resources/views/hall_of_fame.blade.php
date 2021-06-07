@@ -38,7 +38,9 @@
     <div id="mobile-menu-wrap"></div>
     <div class="offcanvas__widget">
         <span>Follow us</span>
-        <span><font color="#a9a9a9">facebook.com/iutdebatingsociety</font></span>
+        <a href="https://www.facebook.com/iutdebatingsociety">
+            <font color="#a9a9a9">facebook.com/iutdebatingsociety</font>
+        </a>
     </div>
 </div>
 <!-- Offcanvas Menu End -->
@@ -79,7 +81,9 @@
             <div class="col-lg-3">
                 <div class="header__widget">
                     <span>Follow us</span>
-                    <span><font color="#a9a9a9">facebook.com/iutdebatingsociety</font></span>
+                    <a href="https://www.facebook.com/iutdebatingsociety">
+                        <font color="#a9a9a9">facebook.com/iutdebatingsociety</font>
+                    </a>
                 </div>
             </div>
         </div>
@@ -213,7 +217,7 @@
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <div class="project__item">
                     <img src="/img/hall_of_fame/15_du_iv_runners_up_novice.jpg" alt="">
-                    <h3>Runner Up (Novice)</h3>
+                    <h3>Champion (Novice)</h3>
                     <h5><font color="orange">DU IV 2020</font></h5>
                 </div>
             </div>
