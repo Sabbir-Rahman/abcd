@@ -450,7 +450,7 @@
                     </div>
                 </div>
             </div>
-            
+
 
 
         </div>
@@ -527,6 +527,30 @@
                                 <h4>Junior<br>Member</h4>
                             </div>
                             <p class="card-text">Nazmur Rahman Prince</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-4">
+                    <div class="card mb-2 box-shadow">
+                        <img class="card-img-top" src="/img/commiteeImageTogether/53_General_Member_Navid_Hasin_Alvee.jpg"
+                             alt="Card image cap">
+                        <div class="card-body">
+                            <div class="card-title">
+                                <h4>Junior<br>Member</h4>
+                            </div>
+                            <p class="card-text">Navid Hasin Alvee</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-4">
+                    <div class="card mb-2 box-shadow">
+                        <img class="card-img-top" src="/img/commiteeImageTogether/54_General_Member_Tausif_Klahi_Khan.jpg"
+                             alt="Card image cap">
+                        <div class="card-body">
+                            <div class="card-title">
+                                <h4>Junior<br>Member</h4>
+                            </div>
+                            <p class="card-text">Tausif Elahi Khan</p>
                         </div>
                     </div>
                 </div>

@@ -399,6 +399,151 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/36_public_relations_officer_alif_arshad_bakshi_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Public Relation Officer</span>
+                            <h5>Alif Arshad Bakshi</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/37_public_relations_officer_nokimul_hasan_arif_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Public Relation Officer</span>
+                            <h5>Nokimul Hasan Arif</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/38_operations_officer_abrar_chowdhury_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Operations Officer</span>
+                            <h5>Abrar Chowdhury</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/39_operations_officer_ahsan_habib_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Operations Officer</span>
+                            <h5>Ahsan Habib</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/40_operations_officer_sajid_ahmed_chowdhury_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Sajid Ahmed Chowdhury</span>
+                            <h5>Operations Officer</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/41_logistics_officer_tanvir_mustafiz_khan_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Logistics Officer</span>
+                            <h5>Tanvir Mustafiz Khan</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/42_logistics_officer_jakia_sultana_khan_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Logistics Officer</span>
+                            <h5>Jakia Sultana Khan</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/43_logistics_officer_sanim_arefin_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Logistics Officer</span>
+                            <h5>Sanim Arefin</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/44_admin_officer_chowdhory_sakif_ahbab_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Admin Officer</span>
+                            <h5>Chowdhury Sakif Ahbab</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/44_admin_officer_safoat_saima_arpi_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Admin Officer</span>
+                            <h5>Safoat Saima Arpi</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/45_equity_officer_tahya_ahammad_bisma_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Equity Officer</span>
+                            <h5>Tahya Ahmed Bisma</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/46_junior_member_abdullah_abrar_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Junior Member</span>
+                            <h5>Abdullah Abrar</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/47_junior_member_nazmur_rahman_prince_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Admin Officer</span>
+                            <h5>Safoat Saima Arpi</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/48_junior_member_navid_hasin_alvee_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Junior Member</span>
+                            <h5>Navid Hasin Alvee</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/49_junior_member_tausif_elahi_khan.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Junior Member</span>
+                            <h5>Tausif Elahi Khan</h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/50_content_writing_nafisa_binte_momin_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Conetent Writing</span>
+                            <h5>Nafisa Binte Momin</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/51_designing_reaz_hasan_joarder_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Designing</span>
+                            <h5>Reaz Hasan Joarder</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/52_designing_sherajul_arifin_19.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Designing</span>
+                            <h5>Sherajul Arifin</h5>
+                        </div>
+                    </div>
+                </div>
 
 
 
