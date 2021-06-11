@@ -356,7 +356,7 @@
                             <h5>Md Ziaul Haque Bhuiyan</h5>
                             <span class="batch-font">IUT 10</span>
                         </div>
-                        <p>Ziaul Haque is a tech enthusiast, true leader, strategy planner and an effective trainer. He
+                        <p>Ziaul Haque is a tech enthusiast, true leader, strategic planner and an effective trainer. He
                             has the great ability of teaching difficult topics in the easiest way possible. He is a
                             substantial speaker that distinguishes him from other individuals. He worked for companies
                             like Huawei, Grameenphone etc. He is currently working as the Chief of Staff at ShopUp.</p>
@@ -535,7 +535,7 @@
                         </div>
                         <p>A person whose speech is more than a set of words, one of the greatest public speakers in the
                             history of IUT, very few people can think as creatively as Fahrial Alam. His widespread
-                            network helped IUTDS to build communication with higher officials. He achievement in IUT is
+                            network helped IUTDS to build communication with higher officials. He achievements in IUT are
                             tremendous. He is the proud CEO of Bae Engineering Solutions.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
@@ -595,7 +595,7 @@
                         </div>
                         <p>He is one of the most wholesome people in IUTDS. He is extremely brilliant in academics,
                             efficient problem solver and data science enthusiast. He served as Head of Communication in
-                            IUTDS. He is currently a Master Student in Informatics at Technical University of
+                            IUTDS. He is currently a Master's Student in Informatics at Technical University of
                             Munich.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
@@ -652,7 +652,7 @@
                             <span class="batch-font">IUT 14</span>
                         </div>
                         <p>An extremely passionate debater who travelled to Thailand just to provide emotional support
-                            to him junior team in a WUDC event. He has great connection in the debate circuit and was a
+                            to his junior team in a WUDC event. He has great connection in the debate circuit and was a
                             famous figure in IUTDS. He worked for Unilever before joining ShopUp as Product Manager.</p>
                         {{--                        <div class="team__social">--}}
                         {{--                            <a href="#"><i class="fa fa-facebook"></i></a>--}}
@@ -792,7 +792,7 @@
                         </div>
                         <p>Raguib Raihan, a remarkable exemplary person, who had created a deep impact and made a better
                             change in all sectors of IUTDS. He started his debating career at JDC. He is an idol for the
-                            debaters who want to pursue the path of becoming an expert tab master and an expert
+                            debaters who want to pursue the path of becoming an expert tab master and
                             organizer. He worked for Agro Organic, Nilavo, Singularity, BAT. Currently, he is working as
                             a consultant at Zunoks.</p>
                         {{--                        <div class="team__social">--}}
