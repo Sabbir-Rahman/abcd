@@ -579,6 +579,19 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
+                    <div class="card mb-2 box-shadow">
+                        <img class="card-img-top"
+                             src="/img/commiteeImageTogether/55_General_Member_Reaz_Hassan_Joarder.jpg"
+                             alt="Card image cap">
+                        <div class="card-body">
+                            <div class="card-title">
+                                <h4>Junior<br>Member</h4>
+                            </div>
+                            <p class="card-text">Reaz Hassan Joarder</p>
+                        </div>
+                    </div>
+                </div>
             </div>
 
 
