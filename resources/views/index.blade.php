@@ -22,9 +22,50 @@
     <link rel="stylesheet" href="/staging-assets/css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="/staging-assets/css/slick.css" type="text/css">
     <link rel="stylesheet" href="/staging-assets/css/style.css" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 </head>
 
 <body>
+{{--add data modal--}}
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Join IUTDS</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <form action="addMember" method="POST">
+                @csrf
+                <div class="modal-body">
+
+                    <div class="mb-3">
+                        <label>Student Id</label>
+                        <input type="text" name="student_id" class="form-control" placeholder="Enter your student id">
+
+                    </div>
+                    <div class="mb-3">
+                        <label>Name</label>
+                        <input type="text" name="name" class="form-control" placeholder="Enter your name">
+
+                    </div>
+                    <div class="mb-3">
+                        <label>Email</label>
+                        <input type="text" name="email" class="form-control" placeholder="Enter your email">
+
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save data</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+{{--end add data modal--}}
 <!-- Page Preloder -->
 <div id="preloder">
     <div class="loader"></div>
@@ -103,7 +144,10 @@
                 <h2>" I think Therefore <br>I am "</h2>
                 <h5><font color="white"><i>-Rene Descartes</i></font></h5>
                 <br><br><br><br>
-                <a href="{{route('about')}}" class="primary-btn">Visit Us</a>
+                <button type="button" class="primary-btn" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Join IUTDS
+                </button>
+{{--                <a href="{{route('about')}}" class="primary-btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Join IUTDS</a>--}}
                 {{--                <a href="#" class="more_btn">Discover more</a>--}}
                 <div class="hero__social">
                     <a href="https://www.facebook.com/iutdebatingsociety"><i class="fa fa-facebook"></i></a>
@@ -1051,6 +1095,12 @@
 <script src="/staging-assets/js/owl.carousel.min.js"></script>
 <script src="/staging-assets/js/slick.min.js"></script>
 <script src="/staging-assets/js/main.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"
+        integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"
+        integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj"
+        crossorigin="anonymous"></script>
 </body>
 
 </html>

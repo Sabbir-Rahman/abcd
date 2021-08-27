@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateMemberApplication2021sTable extends Migration
+class CreateMemberApplicationsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,8 +13,11 @@ class CreateMemberApplication2021sTable extends Migration
      */
     public function up()
     {
-        Schema::create('member_application_2021s', function (Blueprint $table) {
+        Schema::create('member_applications', function (Blueprint $table) {
             $table->id();
+            $table->string('student_id');
+            $table->string('name');
+            $table->string('email');
             $table->timestamps();
         });
     }
@@ -26,6 +29,6 @@ class CreateMemberApplication2021sTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('member_application_2021s');
+        Schema::dropIfExists('member_applications');
     }
 }

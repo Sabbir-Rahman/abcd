@@ -9,6 +9,7 @@ use App\Http\Controllers\present_committee;
 use App\Http\Controllers\about_us;
 use App\Http\Controllers\highlights;
 use App\Http\Controllers\events;
+use App\Http\Controllers\MemberApplicationController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -33,3 +34,4 @@ Route::get('/present_commitee',[present_committee::class,'index'])->name('presen
 Route::get('/highlights',[highlights::class,'index'])->name('highlights');
 Route::get('/events',[events::class,'index'])->name('events');
 Route::get('/about_us',[about_us::class,'index'])->name('about');
+Route::post('/addMember',[MemberApplicationController::class,'add'])->name('add-member');
