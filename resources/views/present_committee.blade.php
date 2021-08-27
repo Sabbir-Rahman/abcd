@@ -236,18 +236,6 @@
 
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
-                <div class="card mb-2 box-shadow">
-                    <img class="card-img-top" src="/img/commiteeImageTogether/30_Equity_Officer_Sumaieta_Tasnim.jpg"
-                         alt="Card image cap">
-                    <div class="card-body">
-                        <div class="card-title">
-                            <h4>Treasurer<br><br></h4>
-                        </div>
-                        <p class="card-text">Sumaieta Tasnim</p>
-                    </div>
-                </div>
-            </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-4">
                 <div class="card mb-2 box-shadow">
                     <img class="card-img-top" src="/img/commiteeImageTogether/25_Public_Relations_Officer_Sameeul_Amin_Dhrubo.jpg"
@@ -273,6 +261,19 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
+                <div class="card mb-2 box-shadow">
+                    <img class="card-img-top" src="/img/commiteeImageTogether/30_Equity_Officer_Sumaieta_Tasnim.jpg"
+                         alt="Card image cap">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h4>Treasurer<br><br></h4>
+                        </div>
+                        <p class="card-text">Sumaieta Tasnim</p>
+                    </div>
+                </div>
+            </div>
+
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6">
                 <div class="card mb-2 box-shadow">
                     <img class="card-img-top" src="/img/commiteeImageTogether/35_Senior_Member_Samiha_Anuva.jpg"
@@ -420,7 +421,7 @@
                          alt="Card image cap">
                     <div class="card-body">
                         <div class="card-title">
-                            <h4>General<br>Member</h4>
+                            <h4>Operations<br>Officer</h4>
                         </div>
                         <p class="card-text">Sajid Ahmed Chowdhury</p>
                     </div>

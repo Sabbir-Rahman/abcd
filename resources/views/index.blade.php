@@ -311,15 +311,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3">
-                    <div class="project__slider__item set-bg"
-                         data-setbg="/img/imageCommitee/30_Equity_Officer_Sumaieta_Tasnim.jpg">
-                        <div class="project__slider__item__hover">
-                            <span>Treasurer</span>
-                            <h5>Sumaieta Tasnim</h5>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="col-lg-3">
                     <div class="project__slider__item set-bg"
                          data-setbg="/img/imageCommitee/25_Public_Relations_Officer_Sameeul_Amin_Dhrubo.jpg">
@@ -339,6 +331,16 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3">
+                    <div class="project__slider__item set-bg"
+                         data-setbg="/img/imageCommitee/30_Equity_Officer_Sumaieta_Tasnim.jpg">
+                        <div class="project__slider__item__hover">
+                            <span>Treasurer</span>
+                            <h5>Sumaieta Tasnim</h5>
+                        </div>
+                    </div>
+                </div>
+
 
                 <div class="col-lg-3">
                     <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/35_Senior_Member_Samiha_Anuva.jpg">
@@ -498,8 +500,8 @@
                 <div class="col-lg-3">
                     <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/47_junior_member_nazmur_rahman_prince_19.jpg">
                         <div class="project__slider__item__hover">
-                            <span>Admin Officer</span>
-                            <h5>Safoat Saima Arpi</h5>
+                            <span>Junior Member</span>
+                            <h5>Nazmur Rahman Prince</h5>
                         </div>
                     </div>
                 </div>
@@ -523,7 +525,7 @@
                 <div class="col-lg-3">
                     <div class="project__slider__item set-bg" data-setbg="/img/imageCommitee/50_content_writing_nafisa_binte_momin_19.jpg">
                         <div class="project__slider__item__hover">
-                            <span>Conetent Writing</span>
+                            <span>Content Writing</span>
                             <h5>Nafisa Binte Momin</h5>
                         </div>
                     </div>

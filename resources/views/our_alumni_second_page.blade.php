@@ -328,7 +328,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="team__item set-bg"
-                     data-setbg="/img/alumniImage/43_Senior_Executive_Nabila_Tasnim_Suprova_16.jpg">
+                     data-setbg="/img/alumniImage/43_Senior_Executive_Nabila_Tasnim_Suprova_16.png">
                     <div class="team__text">
                         <div class="team__title">
                             <h5>Nabila Tasnim Suprova</h5>
